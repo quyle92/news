@@ -1,0 +1,14 @@
+﻿$Ten_KD==""->what's the difference b/t = and ==
+$Ten_KD=$this->changeTitle($Ten);-> how abt  stripSpecial(), stripUnicode???
+where is the problem at Thể loại http://localhost/news/quantri/index.php?p=loaitin_them
+$row=NULL;//why? (theloai_sua.php)
+$qt->LoaiTin_Sua($Ten,$Ten_KD,$ThuTu,$AnHien,$lang,$idLT,$idTL);->why $idLT cannot be put at the end?(loaitin.sua.php)
+$idTL=-1;//why this line neccesay? (tin_ds.php)
+CKeditor SDN doesn't work??? and unable to change to another skin (tin_them)
+=====
+<script src="plugins/autosize/autosize.js"></script>
+<script src="plugins/momentjs/moment.js"></script>
+=> why knowing this is necessary to run the date time picker (tin_them)
+=====
+($("#idTL").val()==0 ->why ==0, instead of NULL? 
+where is "Hiện tin trong mỗi trang" in the tin_ds.php?
